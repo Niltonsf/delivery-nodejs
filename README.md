@@ -1,10 +1,22 @@
 ## Delivery NodeJS
 
-This is a beckend application with NodeJS, Prisma.io and Postgres.
+This beckend application is composed of NodeJS, Prisma.io and Postgres.
 
 This is a API with the purpose to function as an food application beckend.
 
 *OBS: All the methods that refers to `PUT` and `POST` are in `JSON` Format.*
+
+<br><br>
+
+# HOW TO RUN 
+**Postgres needs to be running, there is a `.env.exmaple` on how the `.env` file should be.**
+ 1. `git clone https://github.com/Niltonsf/delivery-nodejs.git`
+ 2. `yarn` or `npm i`
+ 3. `yarn dev`
+
+<br><br>
+
+# HOW TO USE
 
 ##### Enviroment
 - {{base_url}} = http://localhost:3000
